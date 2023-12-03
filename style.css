@@ -231,7 +231,11 @@ caption{
 }
 .inform input{
 	width: 40%;
+	height: 18px;
 	margin: 10px 0;
+}
+.inform input:hover{
+	cursor: pointer;
 }
 .inform label{
 	color: #ffffff;
@@ -241,6 +245,7 @@ caption{
 	width: 40%;
 }
 .inform .btn{
+	height: 25px;
 	width: 30%;
 }
 .footer{
